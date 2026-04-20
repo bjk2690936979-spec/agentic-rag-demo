@@ -1,0 +1,8 @@
+.DS_Store
+qdrant_db/
+markdown_docs/
+parent_store/
+docs/
+__pycache__/
+.vscode/
+.env
